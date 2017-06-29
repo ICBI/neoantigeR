@@ -1,0 +1,18 @@
+exportPattern("^[[:alpha:]]+")
+exportMethods(
+    "neoantigenR.initialize",
+    "neoantigenR.get.Model",
+    "neoantigenR.get.peptides",
+    "neoantigenR.write"
+)
+
+import("seqinr")
+import("msa")
+import("GenomicRanges")
+import("Gviz")
+import("BSgenome")
+import("BSgenome.Hsapiens.UCSC.hg19")
+
+importFrom("grDevices", "dev.off", "pdf")
+importFrom("utils", "read.table", "write.table")
+#importFrom("Biostrings", "readAAStringSet") # Namespace dependency not required: 'Biostrings'

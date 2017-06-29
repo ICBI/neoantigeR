@@ -1,2 +1,2 @@
-# neoantigeR
-a R package to identify neoantigens from NGS data
+# neoantigen
+the repository for the neoantigen discovery tool

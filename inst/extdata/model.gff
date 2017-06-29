@@ -1,0 +1,11 @@
+chr19	PacBio	transcript	18390572	18392432	.	-	.	gene_id "PB.4705"; transcript_id "PB.4705.1";
+chr19	PacBio	exon	18390572	18391592	.	-	.	gene_id "PB.4705"; transcript_id "PB.4705.1";
+chr19	PacBio	exon	18391983	18392432	.	-	.	gene_id "PB.4705"; transcript_id "PB.4705.1";
+chr19	PacBio	transcript	18390572	18391783	.	-	.	gene_id "PB.4705"; transcript_id "PB.4705.2";
+chr19	PacBio	exon	18390572	18391783	.	-	.	gene_id "PB.4705"; transcript_id "PB.4705.2";
+chr19	PacBio	transcript	18390573	18392331	.	-	.	gene_id "PB.4705"; transcript_id "PB.4705.3";
+chr19	PacBio	exon	18390573	18391738	.	-	.	gene_id "PB.4705"; transcript_id "PB.4705.3";
+chr19	PacBio	exon	18391826	18392331	.	-	.	gene_id "PB.4705"; transcript_id "PB.4705.3";
+chr11	PacBio	transcript	308120	309393	.	+	.	gene_id "PB.1583"; transcript_id "PB.1583.1";
+chr11	PacBio	exon	308120	308438	.	+	.	gene_id "PB.1583"; transcript_id "PB.1583.1";
+chr11	PacBio	exon	309013	309393	.	+	.	gene_id "PB.1583"; transcript_id "PB.1583.1";
